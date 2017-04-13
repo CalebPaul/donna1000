@@ -1,4 +1,4 @@
-var DonnaTwitter = require('./../js/twitter.js').twitterInfoModule;
+var TwitterInfo = require('./../js/twitter.js').twitterInfoModule;
 
 $(document).ready(function() {
   //new Twitter Object

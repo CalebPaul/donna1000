@@ -12,4 +12,4 @@ TwitterInfo.prototype.getFollowers = function(queryUrl, consumerKey, consumerSec
   });
 };
 
-exports.twitterInfoModule = DonnaTwitter;
+exports.twitterInfoModule = TwitterInfo;
