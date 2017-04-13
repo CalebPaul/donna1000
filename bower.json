@@ -1,0 +1,21 @@
+{
+  "name": "donna1000",
+  "description": "Get Donna to 1000",
+  "main": "script.js",
+  "authors": [
+    "Caleb Paul <calebpaul21@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "bootstrap": "^3.3.7"
+  }
+}

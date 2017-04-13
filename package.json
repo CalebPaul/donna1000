@@ -1,0 +1,33 @@
+{
+  "name": "donna1000",
+  "version": "1.0.0",
+  "description": "Get Donna to 1000",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CalebPaul/donna1000.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CalebPaul/donna1000/issues"
+  },
+  "homepage": "https://github.com/CalebPaul/donna1000#readme",
+  "devDependencies": {
+    "bower": "^1.8.0",
+    "bower-files": "^3.14.1",
+    "browser-sync": "^2.18.8",
+    "browserify": "^14.3.0",
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-jshint": "^2.0.4",
+    "gulp-sourcemaps": "^2.6.0",
+    "gulp-uglify": "^2.1.2",
+    "jshint": "^2.9.4",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
